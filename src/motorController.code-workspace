@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/zappington/submarine_ws/install/nemo_testbed/lib/python3.10/site-packages",
+			"/home/zappington/submarine_ws/install/joystick_pacs/lib/python3.10/site-packages",
+			"/home/zappington/submarine_ws/install/nemo_interfaces/local/lib/python3.10/dist-packages",
+			"/home/zappington/submarine_ws/install/nemo_controller/lib/python3.10/site-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/zappington/submarine_ws/install/nemo_testbed/lib/python3.10/site-packages",
+			"/home/zappington/submarine_ws/install/joystick_pacs/lib/python3.10/site-packages",
+			"/home/zappington/submarine_ws/install/nemo_interfaces/local/lib/python3.10/dist-packages",
+			"/home/zappington/submarine_ws/install/nemo_controller/lib/python3.10/site-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages"
+		],
+		"stm32cube-ide-clangd.path": "cube"
+	}
+}
